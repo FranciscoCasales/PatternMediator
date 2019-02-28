@@ -22,4 +22,4 @@ directamente, lo hacen a través de una torre de control que funge como mediador
 
 ### Diagrama de estructura
 
-[Diagrama de estructura](https://refactoring.guru/images/patterns/diagrams/mediator/structure.png)
+![Diagrama de estructura](https://refactoring.guru/images/patterns/diagrams/mediator/structure.png)
